@@ -1,0 +1,26 @@
+{
+  "version": "1.0.0-*",
+  "description": "Apl.Client.Postgres Class Library",
+  "authors": [ "dmac" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+  "frameworks": {
+    "net451": {
+      "dependencies": {
+        "ServiceStack.OrmLite.PostgreSQL": "4.0.50"
+      },
+      "frameworkAssemblies": {
+        "System.configuration": "4.0.0.0",
+        "System.Data": "4.0.0.0",
+        "System.Runtime.Serialization": "4.0.0.0"
+      }
+    }
+    
+  },
+  "dependencies": {
+    "Apl.Client.Contracts": "1.0.0-*",
+    "Apl.Entity": "1.0.0-*",
+    "Newtonsoft.Json": "7.0.1"
+  }
+}

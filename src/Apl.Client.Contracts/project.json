@@ -1,0 +1,17 @@
+﻿{
+  "version": "1.0.0-*",
+  "description": "Apl.Client.Contracts Class Library",
+  "authors": [ "dmac" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+  "frameworks": {
+    "net451": {
+      "dependencies": {
+        "Apl.Entity": "1.0.0-*"
+      }
+    }
+  },
+  "dependencies": {
+  }
+}

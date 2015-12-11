@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0-*",
+  "description": "Apl.Entity Class Library",
+  "authors": [ "dmac" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+
+  "frameworks": {
+    "net451": {
+      "frameworkAssemblies": {
+        "System.ComponentModel.DataAnnotations": "4.0.0.0",
+        "System.Runtime.Serialization": "4.0.0.0"
+      }
+    }
+  }
+}
